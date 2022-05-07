@@ -15,15 +15,17 @@
   <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/></a>
 </h1>
 <p>
+<img align="right" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1628983765064.png" alt="OctaCat" width="300px" height="300px">
 <h3>
 Do you believe that blockchain is the future of the financial world?<br>
 Are you ready to become a part of it?<br>
 Great!<br>
 I will help you implement your idea into a blockchain project and write it to a blockchain history forever.<br>
 </h3>
+
 </p>
 
-<h2 align="left" id="macropower-tech">Experienced Blockchain Network</h2>
+<h2 align="left" id="macropower-tech">👍 Experienced Blockchain Network</h2>
 
 <table>
   <tr>
@@ -84,7 +86,7 @@ I will help you implement your idea into a blockchain project and write it to a 
   </tr>
   </table>
   
-<h2 align="left" id="macropower-tech">Favorite Tech</h2>
+<h2 align="left" id="macropower-tech">👍 Favorite Tech</h2>
 
 > Tools, languages, and other things that I like to work with.
 
