@@ -142,9 +142,9 @@ I will help you implement your idea into a blockchain project and write it to a 
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
-        <img src="./img/sass-original.svg" width="48" height="48" alt="Sass" />
+        <img src="https://pbs.twimg.com/profile_images/1121395911849062400/7exmJEg4_400x400.png" width="48" height="48" alt="Sass" />
       </a>
-      <br>Sass
+      <br>Svelte
     </td>
   </tr>
   <tr>
