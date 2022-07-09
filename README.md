@@ -1,5 +1,5 @@
 <div align="center">
-<a align="center" href="https://github.com/eroist"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20My%20Github!;Full-Stack%20Blockchain%20Developer;6+%2B%20years%20of%20hands-on%20experience;&center=true&width=800&height=45"></a>
+<a align="center" href="https://github.com/eroist"><img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome%20to%20My%20Github!;Full-Stack%20Blockchain%20Developer;6+%2B%20years%20of%20hands-on%20experience;&font=Pacifico&center=true&width=800&height=45"></a>
 
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=eroist.eroist" />
 <img align="right" src="https://img.shields.io/github/followers/eroist?label=Follow&style=social" />
@@ -204,3 +204,9 @@ I will help you implement your idea into a blockchain project and write it to a 
     </td>
   </tr>
 </table>
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=eroist&column=8)](https://github-profile-trophy.vercel.app/?username=eroist&column=8)
+
+<img height="120" alt="Thanks for visiting my profile!" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
