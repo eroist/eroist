@@ -4,10 +4,10 @@
 <img align="left" src="https://visitor-badge.laobi.icu/badge?page_id=eroist.eroist" />
 <img align="right" src="https://img.shields.io/github/followers/eroist?label=Follow&style=social" />
 
-<h1><img src="https://gdi-nyc.github.io/intro-to-git-and-github/images/git-daft-punk-1.gif" height="60" /> Welcome! <img src="https://gdi-nyc.github.io/intro-to-git-and-github/images/git-daft-punk-1.gif" height="60" /></h1>
+<h1><img src="https://gdi-nyc.github.io/intro-to-git-and-github/images/git-daft-punk-1.gif" height="60" /> 👋 Welcome! 👋 <img src="https://gdi-nyc.github.io/intro-to-git-and-github/images/git-daft-punk-1.gif" height="60" /></h1>
 </div>
 <p align="center">
-  <img align="center" src="https://www.blockchaindevelopmentagency.com/images/dapp-development.jpg" style = "width: -webkit-fill-available;"/>
+  <img align="center" src="https://blog.csiro.au/wp-content/uploads/2016/11/blockchain.jpg" style = "width: -webkit-fill-available;"/>
 </p>
 <h1 align="center">
   <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome Badge"/>
