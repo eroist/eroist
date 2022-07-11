@@ -208,7 +208,7 @@ I will help you implement your idea into a blockchain project and write it to a 
 ## 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/tadashi-hosokawa-0565aa149/"><img align="left" src="./img/linkedin.svg" alt="Tadashi | LinkedIn" width="24px"/></a>
-<a href="https://discordapp.com/users/862393400976343041"><img align="left" src="./img/discord.svg" alt="Tadashi | Discord" width="24px"/></a>
+<a href="https://discordapp.com/users/992420643612135464"><img align="left" src="./img/discord.svg" alt="Tadashi | Discord" width="24px"/></a>
 <a href="https://t.me/happyguydev/"><img align="left" src="./img/telegram.svg" alt="Tadashi | Telegram" width="24px"/></a>
 <a href="mailto:tadashi.hosokawa210@gmail.com"><img align="left" src="./img/mail.webp" alt="Tadashi | Email" width="24px"/></a>
 <a href="https://join.skype.com/invite/h16bfGB4XThU"><img align="left" src="./img/skype.svg" alt="Tadashi | Skype" width="24px"/></a>
